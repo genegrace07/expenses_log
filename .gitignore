@@ -1,0 +1,4 @@
+#DONT INCLUDED THIS FILES/FOLDERS
+
+.venv
+.idea/
