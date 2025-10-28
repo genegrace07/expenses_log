@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "No": 1,
+        "Type": "income",
+        "Description": "raket1",
+        "Amount": 5000,
+        "Date": "2025-10-28"
+    },
+    {
+        "No": 2,
+        "Type": "expense",
+        "Description": "meralco",
+        "Amount": 2000,
+        "Date": "2025-10-28"
+    },
+    {
+        "No": 3,
+        "Type": "expense",
+        "Description": "waterbill",
+        "Amount": 500,
+        "Date": "2025-10-28"
+    }
+]
